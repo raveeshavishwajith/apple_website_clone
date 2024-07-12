@@ -8,6 +8,7 @@ export default defineConfig({
     org: "digital-dreamers-al",
     project: "javascript-react"
   })],
+  base: "/vite-react-deploy/",
 
   build: {
     sourcemap: true
